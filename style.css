@@ -1,0 +1,20 @@
+body{
+    background-color: lightpink;
+}
+
+.tested_things{
+    border: lightslategrey;
+    border-radius: 20px;
+}
+.result{
+    font-weight: bold;
+    background-color: mediumorchid;
+}
+.more_accurate{
+    color: mediumvioletred;
+    border-color: solid olive;
+}
+#imgs{
+    height: 400px;
+    width: 400px;
+}
